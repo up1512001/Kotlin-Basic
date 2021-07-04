@@ -8,3 +8,4 @@
 fun main() {
     println("Hello Kotlin with utsav ...")
 }
+// also it will work for basic declaration

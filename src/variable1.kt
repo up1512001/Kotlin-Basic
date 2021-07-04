@@ -31,6 +31,6 @@ fun main() {
     a = null
     println(a)
 //    above will not generate error
-
+//    means you can assign null to it
 
 }
